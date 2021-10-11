@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ansamnaveed
-- 👀 I’m interested in android using python kivy and kivymd
-- 🌱 I’m currently learning Android using java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile App Development using flutter, python kivy and kivymd
+- 🌱 I’m currently working on dart flutter
 
 <!---
 ansamnaveed/ansamnaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
